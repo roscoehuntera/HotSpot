@@ -1,2 +1,3 @@
 # HotSpot
 HotSpot it is a interactive social website for people to share their travel experiences and to inspire other users who are planning their own vacations. Travelers will be able to find specifically what they are looking for when planning their vacation. On the website travelers will be able to explore things like restaurants, hotels, activities, and many more. Users will be able to post their own experience and react to other people’s experiences by liking, saving, and commenting on other users’ posts.
+![image](https://user-images.githubusercontent.com/43173682/124778286-dcb02680-df0e-11eb-9d48-286691dab34c.png)
